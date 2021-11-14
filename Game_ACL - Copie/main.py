@@ -2,7 +2,7 @@ import pygame
 import math
 from game import Game
 pygame.init()
-
+#oui
 #def horloge
 clock = pygame.time.Clock()
 FPS = 50000
